@@ -1,2 +1,1 @@
 # cxrdinxl.github.io
-website
